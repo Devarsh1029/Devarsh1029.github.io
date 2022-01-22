@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Thanks for visiting my website
 
-Template Name: MyResume
+Website Name: Devarsh shah
 Template URL: https://shahdevarsh.me/
-Author: BootstrapMade.com
-License: 
+License: Devarsh Shah
